@@ -1,0 +1,5 @@
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Release\ITlab1.exe.config
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Release\ITlab1.exe
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Release\ITlab1.pdb
+F:\Visual Studio Projects\ITlab1\ITlab1\obj\Release\ITlab1.exe
+F:\Visual Studio Projects\ITlab1\ITlab1\obj\Release\ITlab1.pdb

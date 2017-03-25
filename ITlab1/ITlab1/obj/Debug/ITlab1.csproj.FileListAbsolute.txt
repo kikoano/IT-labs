@@ -1,0 +1,6 @@
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Debug\ITlab1.exe.config
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Debug\ITlab1.exe
+F:\Visual Studio Projects\ITlab1\ITlab1\bin\Debug\ITlab1.pdb
+F:\Visual Studio Projects\ITlab1\ITlab1\obj\Debug\ITlab1.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\ITlab1\ITlab1\obj\Debug\ITlab1.exe
+F:\Visual Studio Projects\ITlab1\ITlab1\obj\Debug\ITlab1.pdb
