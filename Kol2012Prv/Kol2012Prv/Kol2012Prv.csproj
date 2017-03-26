@@ -65,6 +65,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Glasaj.aspx" />
+    <Content Include="Images\finkiLogo.png" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -75,13 +77,45 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Najava.aspx" />
+    <Content Include="Rezultati.aspx" />
+    <Content Include="UspesnoGlasanje.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Code\Predmeti.cs" />
+    <Compile Include="Glasaj.aspx.cs">
+      <DependentUpon>Glasaj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Glasaj.aspx.designer.cs">
+      <DependentUpon>Glasaj.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Najava.aspx.cs">
+      <DependentUpon>Najava.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Najava.aspx.designer.cs">
+      <DependentUpon>Najava.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezultati.aspx.cs">
+      <DependentUpon>Rezultati.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Rezultati.aspx.designer.cs">
+      <DependentUpon>Rezultati.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UspesnoGlasanje.aspx.cs">
+      <DependentUpon>UspesnoGlasanje.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UspesnoGlasanje.aspx.designer.cs">
+      <DependentUpon>UspesnoGlasanje.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
